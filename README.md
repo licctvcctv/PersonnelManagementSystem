@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1NJ4m1t7bT
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的人事管理系统，可以给管理员、普通员工角色使用，包括部门信息模块、员工考勤模块、上下班记录模块、员工薪酬模块和系统基础模块，项目编号T077。
 
